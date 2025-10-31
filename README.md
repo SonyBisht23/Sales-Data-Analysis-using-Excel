@@ -35,5 +35,5 @@ Includes columns such as:
 
 ---
 
-💼 [LinkedIn Profile]  
+💼 [LinkedIn Profile]  :www.linkedin.com/in/sonybisht
 📧 [Email or Portfolio Link]
